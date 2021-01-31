@@ -17,7 +17,7 @@ tags:
 
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="giorgoschiras" data-slug-hash="NWrMJmV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Circular Navigation example">
+<p class="codepen" data-height="500" data-theme-id="light" data-default-tab="result" data-user="giorgoschiras" data-slug-hash="NWrMJmV" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Circular Navigation example">
   <span>See the Pen <a href="https://codepen.io/giorgoschiras/pen/NWrMJmV">
   Circular Navigation example</a> by GiorgosChiras (<a href="https://codepen.io/giorgoschiras">@giorgoschiras</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

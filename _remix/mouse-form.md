@@ -15,11 +15,11 @@ tags:
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση της φόρμας και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη.
 
-<p data-height="800" data-theme-id="17517" data-slug-hash="vNYZXK" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='https://codepen.io/sckarolos/pen/vNYZXK/'>Form Example</a> by sckarolos (<a href='https://codepen.io/sckarolos'>@sckarolos</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
+<p data-height="500" data-theme-id="17517" data-slug-hash="vNYZXK" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='https://codepen.io/sckarolos/pen/vNYZXK/'>Form Example</a> by sckarolos (<a href='https://codepen.io/sckarolos'>@sckarolos</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="giorgoschiras" data-slug-hash="NWrVKLX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form Example">
+<p class="codepen" data-height="800" data-theme-id="light" data-default-tab="result" data-user="giorgoschiras" data-slug-hash="NWrVKLX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Form Example">
   <span>See the Pen <a href="https://codepen.io/giorgoschiras/pen/NWrVKLX">
   Form Example</a> by GiorgosChiras (<a href="https://codepen.io/giorgoschiras">@giorgoschiras</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
